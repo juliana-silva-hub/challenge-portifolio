@@ -5,8 +5,7 @@
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/168887837-b6d26532-6782-48dc-92eb-e48bf6c57a15.png">
 </p>
 
-Sobre o desafio
-
+<h2>Sobre o desafio </h2>
 Bem-vindas e bem-vindos ao primeiro desafio do Challenge Front End!<br>
 Nessa sprint vamos trabalhar na construção de um portfólio, assim você conseguirá mostrar os seus projetos para possíveis recrutadores. <br>
 
