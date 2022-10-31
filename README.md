@@ -1,2 +1,2 @@
-# challenge-portif-lio
+# challenge-portifólio
 Portifólio Pessoal
